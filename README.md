@@ -17,7 +17,7 @@ The main objectives of this project were to:
 
 ## Dataset
 
-The project uses the Northwind dataset, a sample business dataset that contains information related to customers, orders, products, categories, employees, and shipping.
+The project uses the Northwind Traders dataset, a sample business dataset that contains information related to customers, orders, products, categories, employees, and shipping.
 
 The dataset was used to analyze sales performance, order trends, product performance, customer behavior, and geographical sales distribution.
 
