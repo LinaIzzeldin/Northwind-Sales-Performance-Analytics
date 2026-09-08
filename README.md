@@ -190,7 +190,7 @@ Northwind-Sales-Performance-Analytics/
 ├── Northwind Sales & Performance Analytics.pbix
 │
 ├── data/
-│   └── Northwind+Traders.zip
+│   └── Northwind_Traders.zip
 │
 └── images/
     ├── dashboard-overview.png
